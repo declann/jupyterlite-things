@@ -22,4 +22,4 @@ lifelib 0.9.5
 
 This is the self-contained Python model, independent of `modelx`. (see [Export Feature Intro](https://modelx.io/blog/2023/07/29/export-feature-intro/) blog post on modelx.io)
 
-I was interested to compare interactive performance using/without `modelx`, but got an error trying to read that model (in local Jupyter however, I reproduce numbers [here](https://modelx.io/blog/2023/08/19/enhanced-speed-for-exported-lifelib-models/)).
+I was interested to compare interactive performance using/without `modelx`, but got an error trying to read that model (in local Jupyter however, I reproduce basic pattern [here](https://modelx.io/blog/2023/08/19/enhanced-speed-for-exported-lifelib-models/)).
