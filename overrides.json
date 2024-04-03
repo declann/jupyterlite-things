@@ -1,0 +1,19 @@
+{
+  "jupyter-config-data": {
+    "enableMemoryStorage": true,
+    "contentsStorageDrivers": ["memoryStorageDriver"],
+    "settingsStorageDrivers": ["memoryStorageDriver"]
+  },
+  "@jupyterlab/notebook-extension:panel": {
+    "toolbar": [
+      {
+        "name": "download",
+        "label": "Download",
+        "args": {},
+        "command": "docmanager:download",
+        "icon": "ui-components:download",
+        "rank": 50
+      }
+    ]
+  }
+}
